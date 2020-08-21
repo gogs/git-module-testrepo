@@ -1,0 +1,1 @@
+The content is identical, thus have the same SHA.
